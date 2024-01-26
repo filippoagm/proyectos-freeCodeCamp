@@ -1,0 +1,72 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+body{
+  background-color:#fff;
+  font-family:'Segoe UI', sans-serif;
+}
+main{
+  margin:2rem 0;
+  background-color:#eee;
+}
+header {
+  text-align:center;
+  padding:2rem;
+}
+header #title {
+  font-size:2.5rem;
+}
+figure {
+  background-color:#fff;
+  width:95%;
+  margin:0 auto;
+  padding:1rem;
+}
+figcaption {
+  margin-top:1rem;
+  text-align:center;
+  font-family:sans-serif;
+}
+img {
+  display:block;
+  margin:0 auto;
+  max-width:100%;
+}
+
+#tribute-info h3 {
+  text-align:center;
+  padding:3rem 0;
+}
+
+
+ul {
+  
+  max-width:550px;
+  text-align:left;
+  padding:0 3rem;
+  margin:0 auto;
+}
+
+li {
+  margin:1rem 0;
+  line-height:1.5;
+}
+
+span {
+  font-weight:bold;
+}
+
+blockquote {
+  margin:2rem auto;
+  padding: 0 2rem;
+  max-width:550px;
+  font-style:italic;
+  color:#222;
+  letter-spacing:.1rem;
+}
+blockquote p {
+  margin:1rem 0;
+}
+
+h3 {
+  text-align:center;
+  padding:2rem;
+}
